@@ -1,3 +1,8 @@
+## User Guide
+
+__New feature alert!__
+
+## Install
 # User Guide
 
 ## Install
